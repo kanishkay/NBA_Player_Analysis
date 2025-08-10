@@ -1,4 +1,4 @@
-# 🏀 NBA Player Comparison (2024–25 Season)
+# 🏀 NBA Player Comparison 
 
 📊 An interactive NBA player performance analysis project using real-time game log data fetched via the [nba\_api](https://github.com/swar/nba_api) Python library.
 
