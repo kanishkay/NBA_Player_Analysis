@@ -16,3 +16,4 @@ It collects real-time player data, processes it, and generates **key performance
 - Generates bar chart visualizations of top scorers
 
 
+Author : Kanishka Yadav
